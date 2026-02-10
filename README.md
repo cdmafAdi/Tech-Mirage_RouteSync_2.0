@@ -1,9 +1,11 @@
 # Tech-Mirage_RouteSync_2.0
 # RouteSync
 
-div align="center">
+<div align="center">
 <!-- <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" /> -->
 </div>
+<img width="1550" height="866" alt="image" src="https://github.com/user-attachments/assets/3579eb93-8fbc-44d4-8204-596bee9a39ff" />
+
 
 # Run and deploy your  app
 
