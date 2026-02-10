@@ -1,0 +1,8 @@
+{
+  "name": "EXP RouteSync",
+  "description": "A unified platform for Pune commuters to manage Metro, PMPML Bus, and Cab travel with AI-powered route optimization and safety features.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
